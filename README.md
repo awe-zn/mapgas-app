@@ -1,7 +1,7 @@
 # Mapgas-app
 
 ## Descrição
-Bem-vindo ao repositório principal do Mapgas-app, uma aplicação destinada a proporcionar uma experiência web incrível e intuitiva. Esta branch dev contém a versão em desenvolvimento que será atualizada para branch homologação para avaliação, quando aprovada, será incrementada na master.
+Bem-vindo ao repositório principal do Mapgas-app, uma aplicação destinada a proporcionar uma experiência incrível e intuitiva. Esta branch dev contém a versão em desenvolvimento que será atualizada para branch homologação para avaliação, quando aprovada, será incrementada na master.
 
 ## Getting Started
 
