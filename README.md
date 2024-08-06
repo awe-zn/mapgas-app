@@ -1,7 +1,7 @@
 # Mapgas-app
 
 ## Descrição
-Bem-vindo ao repositório principal do Mapgas-app, uma aplicação destinada a proporcionar uma experiência web incrível e intuitiva. Esta branch master contém a versão mais estável e atualizada do nosso site.
+Bem-vindo ao repositório principal do Mapgas-app, uma aplicação destinada a proporcionar uma experiência incrível e intuitiva. Esta branch master contém a versão mais estável e atualizada do nosso site.
 
 ## Getting Started
 This project is a starting point for a Flutter application.
