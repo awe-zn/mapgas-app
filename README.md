@@ -1,6 +1,8 @@
-# mapgas
+# Mapgas-app
 
-A new Flutter project.
+## Descrição
+Bem-vindo ao repositório principal do Mapgas-app, uma aplicação destinada a proporcionar uma experiência web incrível e intuitiva. Esta branch homologacao contém a versão da dev que será avaliada por alguém, quando aprovada, é atualizada na branch master do nosso site. Desse modo, havendo uma nova versão ou um novo update em nossa aplicação.
+
 
 ## Getting Started
 
