@@ -1,7 +1,7 @@
 # Mapgas-aap
 
 ## Descrição
-Bem-vindo ao repositório principal do Mapgas-aap, uma aplicação destinada a proporcionar uma experiência web incrível e intuitiva. As branches Features são galhos temporários, onde produzimos partes da nossa aplicação e mergeamos com a branch dev e, no após, deve dar imerge com **exclusão** desta branch, ou seja, esse galho será apenas uma área de trabalho temporária de cada desenvolvedor. Contém a versão “rascunho” do desenvolvimento que será atualizada para branch dev e depois excluída, seguindo o git-flow.
+Bem-vindo ao repositório principal do Mapgas-aap, uma aplicação destinada a proporcionar uma experiência incrível e intuitiva. As branches Features são galhos temporários, onde produzimos partes da nossa aplicação e mergeamos com a branch dev e, no após, deve dar imerge com **exclusão** desta branch, ou seja, esse galho será apenas uma área de trabalho temporária de cada desenvolvedor. Contém a versão “rascunho” do desenvolvimento que será atualizada para branch dev e depois excluída, seguindo o git-flow.
 
 ## Getting Started
 
