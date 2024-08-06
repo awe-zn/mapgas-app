@@ -1,7 +1,7 @@
 # Mapgas-app
 
 ## Descrição
-Bem-vindo ao repositório principal do Mapgas-app, uma aplicação destinada a proporcionar uma experiência web incrível e intuitiva. Esta branch fix é empregada para correção de bugs da master, quando corrigido, faz um merge com a master e uma correção na dev. Deixando a versão mais estável e atualizada do nosso site.
+Bem-vindo ao repositório principal do Mapgas-app, uma aplicação destinada a proporcionar uma experiência incrível e intuitiva. Esta branch fix é empregada para correção de bugs da master, quando corrigido, faz um merge com a master e uma correção na dev. Deixando a versão mais estável e atualizada do nosso site.
 
 ## Getting Started
 
